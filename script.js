@@ -1,4 +1,6 @@
-window.addEventListener("onload" ,myfun());
+window.onload=myfun();
+alert('hi');
 function myfun(){
-    console.log("Onloading......")
+    console.log("Onloading......");
+   
 }

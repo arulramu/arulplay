@@ -1,1 +1,1 @@
-console.log("welecome to javascript");
+console.log("welecome to javascript support to php");

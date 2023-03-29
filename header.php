@@ -3,6 +3,6 @@
   <head>
     <title>Sample page</title>
     <meta charset="utf-8">
-    <meta name="description" description="">
+    <meta name="description" content="Sample">
     <link rel="stylesheet" href="style.css">
   </head>

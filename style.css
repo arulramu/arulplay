@@ -1,7 +1,8 @@
 .body{
   margin:0px;
- 
+ background: #f80a0a;
+ padding:15px 15px;
 }
 img{
-  max-width:100%
+  max-width:100%;
 }

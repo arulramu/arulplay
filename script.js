@@ -1,5 +1,5 @@
-window.onload=myfun();
-alert('hi');
+document.onload=myfun();
+
 function myfun(){
     console.log("Onloading......");
    

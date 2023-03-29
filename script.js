@@ -1,1 +1,4 @@
-console.log("welecome to javascript support to php");
+window.addEventListener("onload" ,myfun());
+function myfun(){
+    console.log("Onloading......")
+}

@@ -1,4 +1,4 @@
-<?php 
+<?php
 include "header.php";
 ?>
 <body>
@@ -8,8 +8,6 @@ include "header.php";
   <p>jenkins </p>
   <p>2023-2024</p>
   <p>Learning </p>
-
- 
 
 </body>
 <?php
